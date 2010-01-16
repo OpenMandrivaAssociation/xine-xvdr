@@ -58,8 +58,8 @@ Requires:	xine-plugin-api >= %xineapi
 Obsoletes:	vdr-plugin-xineliboutput-frontend-xine xineliboutput-fe-xine
 
 %description
-With this package you can connect to your VDR with xine with an MRL
-like below:
+With this package you can connect to your VDR xineliboutput plugin
+with xine with an MRL like below:
 xvdr://127.0.0.1#nocache;demux:mpeg_block
 
 Frontend packages:
