@@ -6,7 +6,7 @@
 %define version	1.0.5
 %define snapshot 0
 %define prever	0
-%define rel	2
+%define rel	3
 
 %if %snapshot
 %if %prever
