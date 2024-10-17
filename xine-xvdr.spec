@@ -34,7 +34,7 @@ Version:	%version
 Release:	%release
 Group:		Video
 License:	GPLv2+
-URL:		http://sourceforge.net/projects/xineliboutput/
+URL:		https://sourceforge.net/projects/xineliboutput/
 %if %snapshot
 Source:		vdr-%plugin-%snapshot.tar.bz2
 %else
